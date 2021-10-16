@@ -1,0 +1,15 @@
+
+
+PHP 초기 Path 설정하기
+
+Cannot validate since a PHP installation could not be found.
+Use the setting 'php.validate.executablePath' to configure the PHP executable.
+
+source : PHP Language Features (Extention) 이라는 공지창이 뜬다.
+
+
+
+
+1. Ctrl + ,
+2. setting.json
+3. "php.validate.executablePath": "C:/xampp/php/php.exe", 추가
